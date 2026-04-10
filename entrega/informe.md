@@ -8,6 +8,8 @@
 - Ayala Silva Juan Sebastián  
 - Campo Conde Juan Diego  
 
+## Nota: En el archivo de Excel adjunto, los numerales del checklist que no se incluyeron son porque no se tiene información certera y se prefiere no poner falsa información con eso. 
+
 ## 1. Alcance del sistema evaluado
 Para Ataraxia Parkour Gym, el “sistema” no es una plataforma propia, sino el conjunto de prácticas y herramientas que soportan la operación diaria:
 
